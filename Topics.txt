@@ -1,0 +1,39 @@
+Divide & Conquer ~
+1) Binary Search 
+2)* Merge Sort 
+3)* Quick sort 
+4) Maximum & Minimum of an array 
+5) Minimum Number of Scaler Multiplication needed for chain of matrix 
+6) Floyed - Warshall Algorithm 
+7) Travelling Salesman 
+8) Dijkstra Algorithm 
+9) Bellman Ford Algorithm
+
+Branch & Bound ~
+10) 15 Puzzle Problem 
+
+Backtracking ~
+11) N Queen Problem 
+12) Graph Coloring Problem 
+13) Hamiltonian Problem 
+
+Greedy ~
+14)* Knapsack Problem (01 & Fractional) -
+15) Job Sequencing with deadline 
+16)* Prim's Algorithm 
+17)* Kruskal Algorithm 
+
+Graph Traversal Algorithm ~
+18) BFS & DFS 
+
+Other~
+19) Binary Search Tree 
+20)* GCD 
+21) Binomial Coefficient 
+22) Heap Sort 
+23)* Bubble Sort 
+24) Maximum & Minimum of array DP approach 
+25)* Bin Packing 
+26) Priority Queue 
+27) Insertion Sort 
+28) Graph Representation using Adjacency matrix 
